@@ -3,7 +3,7 @@ import React from "react";
 
 const Dashboard = () => {
   return (
-    <main className="main-container min-h-[100vh] animate-newpulse">
+    <main className="main-container min-h-[100vh] animate-pulse">
       <nav>
         <div className="navbar bg-base-100">
           <div className="navbar-start">
