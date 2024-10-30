@@ -5,7 +5,7 @@ import myphoto from "../../../public/my-photo.jpg";
 
 export const Navbar = () => {
   return (
-    <header className="">
+    <header className="max-w-[1000px] mx-auto">
       <nav className="">
         <div className="flex items-center justify-between bg-base-100">
           <div className="">
